@@ -10,6 +10,6 @@
   "license": "ISC",
   "dependencies": {
     "dotenv": "^16.4.5",
-    "mongose": "^0.0.2-security"
+    "mongoose": "^0.0.2-security"
   }
 }
